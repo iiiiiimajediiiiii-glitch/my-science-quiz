@@ -1,4 +1,4 @@
 {
-  "version": 2,
-  "public": true
+  "buildCommand": "pnpm run build",
+  "outputDirectory": "dist"
 }
